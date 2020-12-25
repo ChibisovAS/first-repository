@@ -1,6 +1,2 @@
-1111111111111111111111111
-2222222222222222222222222
-line from user2
-line from user1
-hello from user1 (from branch master) !!!
+hello from user1 !!!
 
