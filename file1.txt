@@ -1,2 +1,3 @@
 hello from user2 !!!
-bug fixed
+
+line from user1
